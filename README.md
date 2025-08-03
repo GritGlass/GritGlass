@@ -1,8 +1,12 @@
 # 🚀 Welcome to My GitHub
 
 안녕하세요!  
-데이터 분석과 AI 개발에 탐구심을 가지고 도전하는 개발자 **홍길동**입니다.  
+데이터 분석과 AI 개발에 탐구심을 가지고 도전하는 개발자 **한유리**입니다.  
 아래는 제가 사용해온 기술과 주요 프로젝트입니다.  
+
+Hello!  
+I'm **Yu-Ri Han**, a developer passionate about data analysis and AI development.  
+Here are the skills I use and some of my key projects.  
 
 ---
 
@@ -42,9 +46,9 @@
 
 ## 🌱 About Me
 
-- 📍 산업경영공학 학•석사 졸업  
-- 📈 물류와 비전 AI 분야 프로젝트 다수 수행  
-- 💡 문제 해결과 완성도를 중시하는 개발자  
+- 📍 산업경영공학 학•석사 졸업 (Bachelor’s and Master’s degree in Industrial Engineering)
+- 📈 물류와 비전 AI 분야 프로젝트 다수 수행 (Experience in logistics optimization and computer vision AI projects)
+- 💡 문제 해결과 완성도를 중시하는 개발자(Developer who values problem-solving and high-quality results)  
 
 ---
 
