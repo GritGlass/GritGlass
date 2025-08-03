@@ -26,25 +26,40 @@ Here are the skills I use and some of my key projects.   🚀✨
 
 ## 📌 Projects
 
-<div align="center">
-
-<a href="https://github.com/GritGlass/safety-ai">
-  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/safety-ai.png" width="300px" alt="안전관리 솔루션"/>
-</a>
-
-<a href="https://github.com/GritGlass/inspection-ai">
-  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/inspection-ai.png" width="300px" alt="제품 외관 검사"/>
-</a>
-
-<a href="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/README.md">
-  <img src="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/assets/movie_dashboard.png" width="300px" alt="영화 대시보드"/>
-</a>
-
-<a href="https://github.com/GritGlass/order-picking">
-  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/order-picking.png" width="300px" alt="Order Picking 최적화"/>
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      <a href="https://github.com/GritGlass/safety-ai">
+        <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/safety-ai.png" width="240px" alt="안전관리 솔루션"/>
+        <br/><br/>
+        🦺 <b style="color:#fff;">안전관리 솔루션</b>
+      </a>
+    </td>
+    <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      <a href="https://github.com/GritGlass/inspection-ai">
+        <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/inspection-ai.png" width="240px" alt="제품 외관 검사"/>
+        <br/><br/>
+        🔍 <b style="color:#fff;">제품 외관 검사</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      <a href="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/README.md">
+        <img src="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/assets/movie_dashboard.png" width="240px" alt="영화 대시보드"/>
+        <br/><br/>
+        🎬 <b style="color:#fff;">영화 대시보드</b>
+      </a>
+    </td>
+    <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      <a href="https://github.com/GritGlass/order-picking">
+        <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/order-picking.png" width="240px" alt="Order Picking 최적화"/>
+        <br/><br/>
+        📦 <b style="color:#fff;">Order Picking 최적화</b>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
