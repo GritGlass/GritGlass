@@ -29,17 +29,17 @@ Here are the skills I use and some of my key projects.   🚀✨
 <table align="center">
   <tr>
     <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      🦺 <b style="color:#fff;">안전관리 솔루션</b>
+      <br/>
       <a href="https://github.com/GritGlass/safety-ai">
         <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/safety-ai.png" width="240px" alt="안전관리 솔루션"/>
-        <br/><br/>
-        🦺 <b style="color:#fff;">안전관리 솔루션</b>
       </a>
     </td>
     <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      🔍 <b style="color:#fff;">제품 외관 검사</b>
+      <br/>
       <a href="https://github.com/GritGlass/inspection-ai">
         <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/inspection-ai.png" width="240px" alt="제품 외관 검사"/>
-        <br/><br/>
-        🔍 <b style="color:#fff;">제품 외관 검사</b>
       </a>
     </td>
   </tr>
@@ -52,10 +52,10 @@ Here are the skills I use and some of my key projects.   🚀✨
       </a>
     </td>
     <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      📦 <b style="color:#fff;">Order Picking 최적화</b>
+      <br/>
       <a href="https://github.com/GritGlass/order-picking">
         <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/order-picking.png" width="240px" alt="Order Picking 최적화"/>
-        <br/><br/>
-        📦 <b style="color:#fff;">Order Picking 최적화</b>
       </a>
     </td>
   </tr>
