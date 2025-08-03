@@ -1,6 +1,6 @@
 <!-- 상단 GIF 배너 -->
 <p align="center">
-  <img src="https://github.com/GritGlass/GritGlass/blob/main/assets/stars.jpg", width="100%" alt="AI Banner"/>
+  <img src="https://github.com/GritGlass/GritGlass/blob/main/assets/data.jpg", width="100%" alt="AI Banner"/>
 </p>
 
 
