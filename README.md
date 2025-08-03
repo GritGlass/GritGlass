@@ -54,7 +54,7 @@ Here are the skills I use and some of my key projects.   🚀✨
 - 📈 물류와 비전 AI 분야 프로젝트 다수 수행 (Experience in logistics optimization and computer vision AI projects)
 - 💡 문제 해결과 완성도를 중시하는 개발자 (Developer who values problem-solving and high-quality results)  
 
----
+
 
 ## 📊 GitHub Stats
 
