@@ -1,6 +1,6 @@
 <!-- 상단 GIF 배너 -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/26xBI73gWquCBBCDe/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c3dW15aGVlZDNlN3VlbHNidnUwaWtoOGYzaW0xeWIyaGtnbWlhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif)", width="100%" alt="AI Banner"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c3dW15aGVlZDNlN3VlbHNidnUwaWtoOGYzaW0xeWIyaGtnbWlhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jakQnxhPwrbOdEZDul/giphy.gif", width="100%" alt="AI Banner"/>
 </p>
 
 
