@@ -36,8 +36,8 @@ Here are the skills I use and some of my key projects.   🚀✨
   <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/inspection-ai.png" width="300px" alt="제품 외관 검사"/>
 </a>
 
-<a href="https://github.com/GritGlass/kpi-dashboard">
-  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/kpi-dashboard.png" width="300px" alt="KPI 대시보드"/>
+<a href="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/README.md">
+  <img src="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/assets/movie_dashboard.png" width="300px" alt="영화 대시보드"/>
 </a>
 
 <a href="https://github.com/GritGlass/order-picking">
