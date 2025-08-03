@@ -52,6 +52,6 @@ Here are the skills I use and some of my key projects.
 
 ---
 
-⭐️ 더 많은 프로젝트와 코드는 제 [GitHub 프로필](https://github.com/GritGlass)에서 확인하실 수 있습니다!  
-        You can find more of my projects on my GitHub Profile!
+⭐️ 더 많은 프로젝트와 코드는 제 [GitHub 프로필](https://github.com/GritGlass)에서 확인하실 수 있습니다!  (You can find more of my projects on my GitHub Profile.) 
+        
 
