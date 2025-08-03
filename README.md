@@ -1,6 +1,6 @@
 <!-- 상단 GIF 배너 -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhyaTBld3VhdXk4OXhoeGN5YW5tN2FoazF2ZzA3dGN6eHl4OTdjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif", width="100%" alt="AI Banner"/>
+  <img src="https://github.com/GritGlass/GritGlass/blob/main/assets/stars.jpg", width="100%" alt="AI Banner"/>
 </p>
 
 
