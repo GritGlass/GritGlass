@@ -65,9 +65,9 @@ Here are the skills I use and some of my key projects.   🚀✨
 
 ## 
 
-🌐 Visitors <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-</p>
+🌐 Visitors : 
+<img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
+
 
 ---
 
