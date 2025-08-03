@@ -65,12 +65,6 @@ Here are the skills I use and some of my key projects.   🚀✨
 
 ## 
 
-<p align="left">
-  <img src="https://img.icons8.com/ios-filled/20/4a90e2/globe.png" style="vertical-align: middle;"/>
-  <span style="vertical-align: middle;">Visitors :</span>
-  <img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" style="vertical-align: middle;"/>
-</p>
-
 ---
 
 ⭐️ 더 많은 프로젝트와 코드는 제 [GitHub 프로필](https://github.com/GritGlass)에서 확인하실 수 있습니다!  (You can find more of my projects on my GitHub Profile.) 
