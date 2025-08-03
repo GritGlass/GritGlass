@@ -45,9 +45,10 @@ Here are the skills I use and some of my key projects.   🚀✨
   </tr>
   <tr>
     <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
+      🎬 <b style="color:#fff;">영화 대시보드</b>
+      <br/>
       <a href="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/README.md">
-        <img src="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/assets/movie_dashboard.png" width="240px" alt="영화 대시보드"/>
-        🎬 <b style="color:#fff;">영화 대시보드</b>
+        <img src="https://github.com/GritGlass/ML-DL/blob/main/Visualization/movie_app/assets/movie_dashboard.png" width="240px" alt="영화 대시보드"/> 
       </a>
     </td>
     <td align="center" width="300" style="border:1px solid #444; border-radius:15px; padding:15px; background-color:#1e1e1e; box-shadow: 2px 2px 8px #888;">
