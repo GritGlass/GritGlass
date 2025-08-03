@@ -65,9 +65,11 @@ Here are the skills I use and some of my key projects.   🚀✨
 
 ## 
 
-🌐 Visitors : 
-<img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
-
+<p align="left">
+  <img src="https://img.icons8.com/ios-filled/20/4a90e2/globe.png" style="vertical-align: middle;"/>
+  <span style="vertical-align: middle;">Visitors :</span>
+  <img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" style="vertical-align: middle;"/>
+</p>
 
 ---
 
