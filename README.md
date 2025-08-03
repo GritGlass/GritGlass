@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
 
@@ -20,20 +20,20 @@
 
 <div align="center">
 
-<a href="https://github.com/username/safety-ai">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/safety-ai.png" width="300px" alt="안전관리 솔루션"/>
+<a href="https://github.com/GritGlass/safety-ai">
+  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/safety-ai.png" width="300px" alt="안전관리 솔루션"/>
 </a>
 
-<a href="https://github.com/username/inspection-ai">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/inspection-ai.png" width="300px" alt="제품 외관 검사"/>
+<a href="https://github.com/GritGlass/inspection-ai">
+  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/inspection-ai.png" width="300px" alt="제품 외관 검사"/>
 </a>
 
-<a href="https://github.com/username/kpi-dashboard">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/kpi-dashboard.png" width="300px" alt="KPI 대시보드"/>
+<a href="https://github.com/GritGlass/kpi-dashboard">
+  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/kpi-dashboard.png" width="300px" alt="KPI 대시보드"/>
 </a>
 
-<a href="https://github.com/username/order-picking">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/order-picking.png" width="300px" alt="Order Picking 최적화"/>
+<a href="https://github.com/GritGlass/order-picking">
+  <img src="https://raw.githubusercontent.com/GritGlass/GritGlass/main/assets/order-picking.png" width="300px" alt="Order Picking 최적화"/>
 </a>
 
 </div>
@@ -48,4 +48,4 @@
 
 ---
 
-⭐️ 더 많은 프로젝트와 코드는 [제 GitHub 프로필](https://github.com/username)에서 확인하실 수 있습니다!
+⭐️ 더 많은 프로젝트와 코드는 [제 GitHub 프로필](https://github.com/GritGlass)에서 확인하실 수 있습니다!
