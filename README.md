@@ -63,9 +63,9 @@ Here are the skills I use and some of my key projects.   🚀✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GritGlass&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-## 🌐 Visitors
+## 
 
-<p align="center">
+🌐 Visitors <p align="left">
   <img src="https://komarev.com/ghpvc/?username=GritGlass&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views"/>
 </p>
 
