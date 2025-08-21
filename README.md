@@ -1,8 +1,8 @@
 # 👋 Hi, I'm GritGlass!
     
-안녕하세요!  
-데이터 분석과 AI 개발에 탐구심을 가지고 도전하는 **AI Engineer 한유리**입니다.  
-Here are the skills I use and some of my key projects.   🚀✨  
+Hello! 🚀✨  
+I'm an AI Engineer experienced in data analytics and AI development.  
+Here are the skills I use and some of my key projects.    
 
 
             
