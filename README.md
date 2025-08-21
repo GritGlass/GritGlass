@@ -1,9 +1,3 @@
-<!-- 상단 GIF 배너 -->
-<p align="center">
-  <img src="https://github.com/GritGlass/GritGlass/blob/main/assets/data.jpg", width="100%" alt="AI Banner"/>
-</p>
-
-
 # 👋 Hi, I'm GritGlass!
     
 안녕하세요!  
@@ -77,14 +71,6 @@ Here are the skills I use and some of my key projects.   🚀✨
 
 ---
 
-## 🌱 About Me
-
-- 📍 산업경영공학 학•석사 졸업 (Bachelor’s and Master’s degree in Industrial Engineering)
-- 📈 물류와 비전 AI 분야 프로젝트 다수 수행 (Experience in logistics optimization and computer vision AI projects)
-- 💡 문제 해결과 완성도를 중시하는 개발자 (Developer who values problem-solving and high-quality results)  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -97,6 +83,5 @@ Here are the skills I use and some of my key projects.   🚀✨
             
 ---
 
-⭐️ 더 많은 프로젝트와 코드는 제 [GitHub 프로필](https://github.com/GritGlass)에서 확인하실 수 있습니다!  (You can find more of my projects on my GitHub Profile.) 
         
 
