@@ -34,13 +34,40 @@ Here are the skills I use and some of my key projects.
 
 ## 📌 Projects
 
-<p align="center">
-  <!-- Segmentation Analyzer -->
-  <a href="https://github.com/GritGlass/segmentation_analyzer">
-    <img src="https://github.com/GritGlass/AI-portfolio/blob/416ada79f311d805c76e98124e2e8e562b024002/segmentation_analizer/assets/analizer.png" />
-  </a>
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GritGlass/segmentation_analyzer">
+        <img src="https://github.com/GritGlass/AI-portfolio/blob/416ada79f311d805c76e98124e2e8e562b024002/segmentation_analizer/assets/analizer.png" width="340" />
+      </a>
+      <br/>
+      <sub>Image Segmentation Analysis App</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GritGlass/order-batch-picking-rl">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=order-batch-picking-rl&theme=tokyonight&hide_border=true" width="340" />
+      </a>
+      <br/>
+      <sub>Order Batch Picking (RL / Meta-heuristics)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/GritGlass/industrial-safety-monitor">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=industrial-safety-monitor&theme=tokyonight&hide_border=true" width="340" />
+      </a>
+      <br/>
+      <sub>Industrial Safety Monitoring</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/GritGlass/kpi-dashboard">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=kpi-dashboard&theme=tokyonight&hide_border=true" width="340" />
+      </a>
+      <br/>
+      <sub>KPI Dashboard</sub>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
