@@ -34,7 +34,12 @@ Here are the skills I use and some of my key projects.
 
 ## 📌 Projects
 
-Preparing
+<p align="center">
+  <!-- Segmentation Analyzer -->
+  <a href="https://github.com/GritGlass/segmentation_analyzer">
+    <img src="https://github.com/GritGlass/AI-portfolio/blob/416ada79f311d805c76e98124e2e8e562b024002/segmentation_analizer/assets/analizer.png" />
+  </a>
+</p>
 
 ---
 
