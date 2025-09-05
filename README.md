@@ -48,7 +48,7 @@ Here are the skills I use and some of my key projects.
         <img src="https://github.com/GritGlass/AI-portfolio/blob/5b43ed9b6da8edee690fcbf53bbaea364537fcfa/active_learning_object_detection/assets/example.png" width="340" />
       </a>
       <br/>
-      <sub>Order Batch Picking (RL / Meta-heuristics)</sub>
+      <sub>Active Transfer Learning (Document Object Detection)</sub>
     </td>
   </tr>
   <tr>
