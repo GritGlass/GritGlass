@@ -44,8 +44,8 @@ Here are the skills I use and some of my key projects.
       <sub>Image Segmentation Analysis App</sub>
     </td>
     <td align="center">
-      <a href="https://github.com/GritGlass/order-batch-picking-rl">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=order-batch-picking-rl&theme=tokyonight&hide_border=true" width="340" />
+      <a href="https://github.com/GritGlass/AI-portfolio/tree/master/active_learning_object_detection">
+        <img src="https://github.com/GritGlass/AI-portfolio/blob/5b43ed9b6da8edee690fcbf53bbaea364537fcfa/active_learning_object_detection/assets/example.png" width="340" />
       </a>
       <br/>
       <sub>Order Batch Picking (RL / Meta-heuristics)</sub>
@@ -53,7 +53,7 @@ Here are the skills I use and some of my key projects.
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/GritGlass/industrial-safety-monitor">
+      <a href="https://github.com/GritGlass/order-batch-picking-rl">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=industrial-safety-monitor&theme=tokyonight&hide_border=true" width="340" />
       </a>
       <br/>
