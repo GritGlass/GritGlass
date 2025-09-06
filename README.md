@@ -30,7 +30,7 @@ Here are the skills I use and some of my key projects.
 
 </div>
 
-
+---
 
 ## 📌 Projects
 
@@ -68,6 +68,7 @@ Here are the skills I use and some of my key projects.
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📊 GitHub Stats
