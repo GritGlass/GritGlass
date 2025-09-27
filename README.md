@@ -44,27 +44,27 @@ Here are the skills I use and some of my key projects.
       </a>  
     </td>
     <td align="center">
+      <h3>Active Transfer Learning (Document Object Detection)</h3>
+      <br/>
       <a href="https://github.com/GritGlass/AI-portfolio/tree/master/active_learning_object_detection">
         <img src="https://github.com/GritGlass/AI-portfolio/blob/5b43ed9b6da8edee690fcbf53bbaea364537fcfa/active_learning_object_detection/assets/example.png" width="340" />
       </a>
-      <br/>
-      <h3>Active Transfer Learning (Document Object Detection)</h3>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <h3>Document OCR</h3>
+      <br/>
       <a href="https://github.com/GritGlass/AI-portfolio/tree/master/OCR">
         <img src="https://github.com/GritGlass/AI-portfolio/blob/3a4e16a130a4b0aba49cca62070fb28ec93e339f/OCR/assets/OCR.png" width="340" />
       </a>
-      <br/>
-      <h3>Document OCR</h3>
     </td>
     <td align="center">
+      <h3>???</h3>
+      <br/>
       <a href="https://github.com/GritGlass/kpi-dashboard">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=kpi-dashboard&theme=tokyonight&hide_border=true" width="340" />
       </a>
-      <br/>
-      <h3>???</h3>
     </td>
   </tr>
 </table>
