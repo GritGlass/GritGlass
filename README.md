@@ -64,7 +64,7 @@ Here are the skills I use and some of my key projects.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=kpi-dashboard&theme=tokyonight&hide_border=true" width="340" />
       </a>
       <br/>
-      <sub>KPI Dashboard</sub>
+      <sub>???</sub>
     </td>
   </tr>
 </table>
