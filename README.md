@@ -37,11 +37,11 @@ Here are the skills I use and some of my key projects.
 <table align="center">
   <tr>
     <td align="center">
+      <h3>Image Segmentation Analysis App</h3>
+      <br/>
       <a href="https://github.com/GritGlass/AI-portfolio/tree/master/segmentation_analizer">
         <img src="https://github.com/GritGlass/AI-portfolio/blob/416ada79f311d805c76e98124e2e8e562b024002/segmentation_analizer/assets/analizer.png" width="340" />
-      </a>
-      <br/>
-      <h3>Image Segmentation Analysis App</h3>
+      </a>  
     </td>
     <td align="center">
       <a href="https://github.com/GritGlass/AI-portfolio/tree/master/active_learning_object_detection">
