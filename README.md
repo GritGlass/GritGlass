@@ -60,10 +60,10 @@ Here are the skills I use and some of my key projects.
       </a>
     </td>
     <td align="center">
-      <h3>???</h3>
+      <h3>Smart Port AGV VRP</h3>
       <br/>
-      <a href="https://github.com/GritGlass/kpi-dashboard">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=GritGlass&repo=kpi-dashboard&theme=tokyonight&hide_border=true" width="340" />
+      <a href="https://github.com/GritGlass/AI-portfolio/tree/master/AGV_VRP">
+        <img src="https://github.com/GritGlass/AI-portfolio/blob/76c66efe80d1b2c666d1da5f69de4ca3187e83fe/AGV_VRP/assets/img.png" width="340" />
       </a>
     </td>
   </tr>
