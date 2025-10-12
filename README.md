@@ -63,7 +63,7 @@ Here are the skills I use and some of my key projects.
       <h3>Smart Port AGV VRP</h3>
       <br/>
       <a href="https://github.com/GritGlass/AI-portfolio/tree/master/AGV_VRP">
-        <img src="https://github.com/GritGlass/AI-portfolio/blob/76c66efe80d1b2c666d1da5f69de4ca3187e83fe/AGV_VRP/assets/img.png" width="340" />
+        <img src="https://github.com/GritGlass/AI-portfolio/blob/376ed2f26fa16dc6b7fa5ebc5de17fe0d4661999/AGV_VRP/assets/img2.png" width="340" />
       </a>
     </td>
   </tr>
