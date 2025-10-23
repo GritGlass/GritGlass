@@ -67,6 +67,22 @@ Here are the skills I use and some of my key projects.
       </a>
     </td>
   </tr>
+   <tr>
+    <td align="center">
+      <h3>Battery SoC</h3>
+      <br/>
+      <a href="https://github.com/GritGlass/AI-portfolio/tree/master/Battery_SoC">
+        <img src="https://github.com/GritGlass/AI-portfolio/blob/e46afd845d297b3767a97776d5cc407e8bc508f6/Battery_SoC/assets/Algorithm.png" width="340" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>??</h3>
+      <br/>
+      <a href="??">
+        <img src="??" width="340" />
+      </a>
+    </td>
+  </tr>  
 </table>
 
 ---
