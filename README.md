@@ -84,18 +84,6 @@ Here are the skills I use and some of my key projects.
     </td>
   </tr>  
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GritGlass&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GritGlass&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-
-
             
 ---
 
