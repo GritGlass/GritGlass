@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GritGlass!
+# 👋 Hi, I'm Yu-Ri!
     
 Hello! 🚀✨  
 I'm an AI Engineer experienced in data analytics and AI development.  
